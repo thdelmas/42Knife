@@ -4,8 +4,6 @@
 
 > Quand on n'a que son couteau
 
-# 42knife
-
 ## Table of Contents
 
 * [About 42knife](#about-better-readme)

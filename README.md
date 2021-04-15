@@ -81,6 +81,8 @@ License - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
+Thanks to all 42's Staff Members
+
 Thanks to all people spending their time to make a better world
 
 ## References

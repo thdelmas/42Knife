@@ -6,7 +6,7 @@
 
 ## Table of Contents
 
-* [About 42knife](#about-better-readme)
+* [About 42knife](#about-42knife)
   * [Roadmap](#roadmap)
   * [Built With](#built-with)
   * [Security](#security)

@@ -1,7 +1,5 @@
 # 42knife
 
-> ~~Quand on n'a que sa bite et son couteau~~
-
 > Quand on n'a que son couteau
 
 ## Table of Contents
@@ -27,7 +25,7 @@ The wolrd best project's description is about to be written here
 
 ### Roadmap
 
-You Only Live Once so fuck off
+You Only Live Once so .... ...
 
 See the [open issues](https://github.com/thdelmas/42knife/issues) for a list of proposed features.
 
@@ -70,9 +68,7 @@ Please check the [CONTRIBUTING.md](CONTRIBUTING.md) file
 
 ## Authors
 
-* **thdelmas** - *Initial design*
-
-![jaeskim's stats](https://badge42.herokuapp.com/api/stats/thdelmas)
+* **[thdelmas](https://github.com/thdelmas)** - *Initial design*
 
 See also the list of [contributors](https://github.com/thdelmas/42knife/graphs/contributors) who participated in this project.
 

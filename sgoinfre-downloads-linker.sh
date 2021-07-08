@@ -28,6 +28,7 @@ fi
 
 if [ ! -L "$downloads_location" ]
 then
+	mkdir -p "$downloads_location"
 	echo "$downloads_location is still a directory in your home"
 	mv -v "$downloads_location" "$sgoinfre_user_location/"
 	ln -s "$sgoinfre_user_location/Downloads" "$downloads_location"

@@ -1,3 +1,6 @@
 salty*
 .salty*
+.env
+.venv
+*/.venv
 */.env
